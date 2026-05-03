@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fw1eyvP+fcI=",
+  "success": true,
+  "projectFilePath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TP_MODUL10_103022400034\\TP_MODUL10_103022400034\\TP_MODUL10_103022400034.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denzell\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\Denzell\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
